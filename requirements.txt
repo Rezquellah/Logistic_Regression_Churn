@@ -1,0 +1,8 @@
+# The required librairies
+scikit-learn
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+plotly
